@@ -1,0 +1,8 @@
+{
+  "short_name": "User-table code test",
+  "name": "User-table created from create-react-app",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
